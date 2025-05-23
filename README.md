@@ -1,5 +1,1 @@
-"
-
-    In this scenario-based project, we have been appointed as a software contractor by "Watson Games" to develop a computer game version of their popular title “World Conquest”, a game similar to the classic Risk.In this scenario-based project, we have been appointed as a software contractor by "Watson Games" to develop a computer game version of their popular title “World Conquest”, a game similar to the classic Risk.
-
-" 
+In this scenario-based project, we have been appointed as a software contractor by "Watson Games" to develop a computer game version of their popular title “World Conquest”, a game similar to the classic Risk.In this scenario-based project, we have been appointed as a software contractor by "Watson Games" to develop a computer game version of their popular title “World Conquest”, a game similar to the classic Risk.
